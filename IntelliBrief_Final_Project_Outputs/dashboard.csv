@@ -1,0 +1,8 @@
+timestamp,topic,num_insights,num_risks,qa_passed
+2026-07-22 23:37:54,Q3 Sales Performance,3,3,True
+2026-07-22 23:44:36,Recent Sales Performance,3,2,True
+2026-07-23 00:07:58,Customer Satisfaction Trends,3,3,True
+2026-07-23 00:09:16,Product Category Performance,3,2,True
+2026-07-23 00:11:27,Regional Sales Comparison,0,1,False
+2026-07-23 00:13:36,Fashion Industry Market Outlook,3,2,True
+2026-07-23 00:16:58,Recent Sales Performance,3,2,True
